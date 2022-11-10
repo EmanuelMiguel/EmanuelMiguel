@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Emanuel Miguel 😊
 
-- ⭐ Iniciando no Mundo da Programação
+- ⭐ Iniciando no Mundo da Programação / Front-end
 - 🌱 Estou estudando HTML/CSS/Javascript
 - 🚩 Brazil - PE/Recife
 - 😄 Pronomes: ele/dele
