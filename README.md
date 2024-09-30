@@ -1,9 +1,8 @@
 ### Olá! Meu nome é Emanuel Miguel 😊
 
-- ⭐ Iniciando no Mundo da Programação / Front-end
-- 🌱 Estou estudando HTML/CSS/Javascript
+- ⭐ Iniciando no Mundo da Programação
+- 🌱 Estou estudando Python
 - 🚩 Brazil - PE/Recife
-- 😄 Pronomes: ele/dele
 
 <div align="left">
   <a href="https://github.com/EmanuelMiguel">
